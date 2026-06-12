@@ -37,7 +37,7 @@ app.listen(PORT, () => {
 });
 
 // ── Bot configuration ─────────────────────────────────────────────────────────
-const BOT_HOST     = 'play.asurnw.com';
+const BOT_HOST     = '185.250.240.22';
 const BOT_PORT     = 25565;
 const BOT_USERNAME = 'y_s_y';
 const BOT_VERSION  = '1.20.1';
